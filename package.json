@@ -2,7 +2,7 @@
     "name": "RyLi-blog",
     "title": "RyLi Blog",
     "version": "1.0.0",
-    "homepage": "http://ryli.github.io/",
+    "homepage": "https://ryli.github.io/",
     "author": "RyLi",
     "devDependencies": {
         "grunt": "~0.4.5",

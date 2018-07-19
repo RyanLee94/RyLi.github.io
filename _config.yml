@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: ryanlee_lry@outlook.com
 description: "Software Engieering | 发现更大的世界"
 keyword: "SA, 架构, MSR"
-url: "https://ryli.prof.com"
+url: "https://RyLi.github.io"
 # your host, for absolute URL，域名可以自定义的
 baseurl: ""         # 网站的根路径
 
@@ -62,7 +62,7 @@ duoshuo_share: true                     # set to false if you want to use Commen
 ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
 # Google Analytics
 ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: ryli.prof.com
+ga_domain: RyLi.github.io
 
 
 
@@ -83,7 +83,7 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 friends: [
     {
         title: "My Blog",
-        href: "http://ryli.prof.com/"
+        href: "https://ryli.github.io/"
     },{
         title: "知乎",
         href: "https://www.zhihu.com/"
