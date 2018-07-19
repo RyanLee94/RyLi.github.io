@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: ryanlee_lry@outlook.com
 description: "李瑞引的个人主页"
 keyword: ""
-url: "http://rylipro.me/"
+url: "https://rylipro.me"
 # your host, for absolute URL，域名可以自定义的
 baseurl: ""         # 网站的根路径
 
