@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: ryanlee_lry@outlook.com
 description: "李瑞引的个人主页"
 keyword: ""
-url: "https://github.com/RyanLee94/RyLi.github.io/index.html"              # your host, for absolute URL
+url: "https://ryanlee94.github.io/RyLi.github.io/"              # your host, for absolute URL
 baseurl: ""         # 网站的根路径
 
 
