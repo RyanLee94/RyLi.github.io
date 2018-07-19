@@ -1,10 +1,10 @@
 # Site settings
 title: Ry blog
-SEOTitle: RyLi | 个人主页
+SEOTitle: RyLi | Blog
 header-img: img/home-bg.jpg
 email: ryanlee_lry@outlook.com
-description: "李瑞引的个人主页"
-keyword: ""
+description: "Software Engieering | 发现更大的世界"
+keyword: "SA, 架构, MSR"
 url: "https://rylipro.me"
 # your host, for absolute URL，域名可以自定义的
 baseurl: ""         # 网站的根路径
@@ -33,7 +33,7 @@ anchorjs: true                          # if you want to customize anchor. check
 # Gems
 # from PR#40, to support local preview for Jekyll 3.0
 plugins: [jekyll-paginate]
-gems: [jekyll-paginate]
+# gems: [jekyll-paginate]
 
 
 # Markdown settings
@@ -62,7 +62,7 @@ duoshuo_share: true                     # set to false if you want to use Commen
 ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
 # Google Analytics
 ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: https://ryli.github.io/
+ga_domain: https://rylipro.me
 
 
 
@@ -94,7 +94,7 @@ friends: [
         title: "Bootstrap",
         href: "https://v3.bootcss.com/"
     },{
-        title: "我的简历",
-        href: "#"
+        title: "CV",
+        href: "https://ryanlee94.github.io/RyLi-CV.github.io/"
     }
 ]
