@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: ryanlee_lry@outlook.com
 description: "Software Engieering | 发现更大的世界"
 keyword: "SA, 架构, MSR"
-url: "https://RyLi.prof.com"
+url: "https://ryli.prof.com/"
 # your host, for absolute URL，域名可以自定义的
 baseurl: ""         # 网站的根路径
 
@@ -83,7 +83,7 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 friends: [
     {
         title: "My Blog",
-        href: "https://ryli.github.io/"
+        href: "https://ryli.prof.com/"
     },{
         title: "知乎",
         href: "https://www.zhihu.com/"
